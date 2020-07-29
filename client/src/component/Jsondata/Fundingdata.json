@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "companyImg": "https://groww.in/images/partners/axis_groww.svg",
+    "policyName": "Axis Bluechip Fund Direct Plan Growth",
+    "day": "1D",
+    "dayGrowth": "-0.39%",
+    "year": "1Y",
+    "yearGrowth": "5.51%",
+    "years": "3Y",
+    "yearsGrowth": "10.34%"
+  },
+  {
+    "id": 2,
+    "companyImg": "https://groww.in/images/partners/ppfas_groww.svg",
+    "policyName": "Parag Parikh Long Term Equity Fund Direct Growth",
+    "day": "1D",
+    "dayGrowth": "-0.02%",
+    "year": "1Y",
+    "yearGrowth": "17.55%",
+    "years": "3Y",
+    "yearsGrowth": "11.60%"
+  },
+  {
+    "id": 3,
+    "companyImg": "https://groww.in/images/partners/sbi_groww.svg",
+    "policyName": "SBI Small Cap Fund Direct Growth",
+    "day": "1D",
+    "dayGrowth": "-1.07%",
+    "year": "1Y",
+    "yearGrowth": "5.56%",
+    "years": "3Y",
+    "yearsGrowth": "4.84%"
+  },
+  {
+    "id": 4,
+    "companyImg": "https://groww.in/images/partners/axis_groww.svg",
+    "policyName": "Axis Midcap Direct Plan Growth",
+    "day": "1D",
+    "dayGrowth": "-1.13%",
+    "year": "1Y",
+    "yearGrowth": "11.75%",
+    "years": "3Y",
+    "yearsGrowth": "9.57%"
+  },
+  {
+    "id": 5,
+    "companyImg": "https://groww.in/images/partners/axis_groww.svg",
+    "policyName": "Axis Long Term Equity Direct Plan Growth",
+    "day": "1D",
+    "dayGrowth": "-0.39%",
+    "year": "1Y",
+    "yearGrowth": "5.51%",
+    "years": "3Y",
+    "yearsGrowth": "10.34%"
+  },
+  {
+    "id": 6,
+    "companyImg": "https://groww.in/images/partners/axis_groww.svg",
+    "policyName": "Axis Bluechip Fund Direct Plan Growth",
+    "day": "1D",
+    "dayGrowth": "-0.72%",
+    "year": "1Y",
+    "yearGrowth": "0.92%",
+    "years": "3Y",
+    "yearsGrowth": "5.91%"
+  },
+  {
+    "id": 7,
+    "companyImg": "https://groww.in/images/partners/nippon_groww.png",
+    "policyName": "Nippon India Pharma Fund Direct Growth",
+    "day": "1D",
+    "dayGrowth": "-1.01%",
+    "year": "1Y",
+    "yearGrowth": "37.99%",
+    "years": "3Y",
+    "yearsGrowth": "14.93%"
+  },
+  {
+    "id": 8,
+    "companyImg": "https://groww.in/images/partners/franklin_groww.svg",
+    "policyName": "Franklin India Feeder Franklin US Opportunities Direct Fund Growth",
+    "day": "1D",
+    "dayGrowth": "-0.49%",
+    "year": "1Y",
+    "yearGrowth": "33.06%",
+    "years": "3Y",
+    "yearsGrowth": "24.37%"
+  },
+  {
+    "id": 9,
+    "companyImg": "https://groww.in/images/partners/icici_groww.svg",
+    "policyName": "ICICI Prudential US Bluechip Equity Direct Plan Growth",
+    "day": "1D",
+    "dayGrowth": "-0.64%",
+    "year": "1Y",
+    "yearGrowth": "19.61%",
+    "years": "3Y",
+    "yearsGrowth": "17.37%"
+  },
+  {
+    "id": 10,
+    "companyImg": "https://groww.in/images/partners/hdfc_groww.svg",
+    "policyName": "HDFC Small Cap Fund Direct  Growth",
+    "day": "1D",
+    "dayGrowth": "-0.59%",
+    "year": "1Y",
+    "yearGrowth": "-14.23%",
+    "years": "3Y",
+    "yearsGrowth": "-3.28%"
+  },
+  {
+    "id": 11,
+    "companyImg": "https://groww.in/images/partners/birla_groww.png",
+    "policyName": "Aditya Birla Sun Life Tax Relief 96 Direct Growth",
+    "day": "1D",
+    "dayGrowth": "-0.70%",
+    "year": "1Y",
+    "yearGrowth": "4.24%",
+    "years": "3Y",
+    "yearsGrowth": "3.36%"
+  }
+]

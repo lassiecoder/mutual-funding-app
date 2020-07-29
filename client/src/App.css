@@ -1,0 +1,209 @@
+  /* NAVBAR ====================== */
+
+.nav-wrapper a {
+  color: rgb(68 68 68);
+}
+.brand-logo, #nav-mobile {
+  margin: 0 6vw;
+}
+#nav-mobile li {
+  font-weight: 500;
+}
+.nav-wrapper span {
+  color: #26a69a;
+  font-weight: 500;
+}
+
+  /* SIGNIN AND SIGNUP ====================== */
+
+.signInCard, .signUpCard {
+  width: 40%;
+  margin: auto;
+  margin-top: 8vw;
+}
+.signInCard .card, .signUpCard .card {
+  text-align: center;
+}
+.signInCard .card h1, .signUpCard .card h1 {
+  color: #26a69a;
+  font-size: 2.8vw;
+  font-weight: 600;
+  /* text-align: center; */
+}
+.signInCard .card h1:hover, .signUpCard .card h1:hover {
+  color: #26a699bb;
+}
+.signInCard .card, .signUpCard .card {
+  padding: 0.1vw 3vw 3vw 3vw;
+}
+.signInCard .btn, .signUpCard .btn {
+  margin: 2vw 0 0 0;
+  /* align-items: center; */
+}
+.alreadyHaveAnAccount {
+  font-weight: 600;
+  margin-top: 2vw;
+}
+
+  /* ERROR MESSAGES ================= */
+/* #toast-container {
+
+   
+} */
+
+  /* LOGOUT BUTTON ====================== */
+/* .logOutBtn {
+  color: red
+} */
+
+  /* HOME ====================== */
+
+.homeWrapper {
+  margin: 5vw 0;
+}
+
+.homeWrapper .card {
+  width: 70vw;
+  margin: 1.5vw auto;
+  padding: 0 3vw 1vw 3vw;
+}
+.homeWrapper .card-image {
+  width: 6%;
+  margin: auto;
+  
+}
+.card.horizontal .card-image img {
+  width: -webkit-fill-available;
+}
+.homeWrapper .boxWrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.homeWrapper .card-stacked h3 {
+  font-size: 1.7vw;
+  font-weight: 500;
+}
+.homeWrapper .boxWrapper h4 {
+  font-size: 1.1vw;
+  font-weight: 500;
+}
+.homeWrapper .boxWrapper .dataHead, .homeWrapper .boxWrapper .dataDetails {
+  display: flex;
+  justify-content: space-around;
+} 
+.homeWrapper .card-content {
+  padding: 0;
+}
+.homeWrapper .card-stacked {
+  padding-left: 4vw;
+}
+.homeWrapper .card-action .linktoNext {
+  right: 0;
+  bottom: 2vw;
+  position: absolute;
+}
+.homeWrapper .linktoNext b {
+  color: #26a69a !important;
+}
+.homeWrapper .linktoNext b:hover {
+  color: #26a699a4 !important;
+}
+
+  /* PROFILE ===================== */
+
+.profileWrapper {
+  margin: 4vw 0;
+  width: 70vw;
+  margin: auto;
+}
+.profileWrapper > div {
+  margin: 2vw 0;
+}
+.profileWrapper .heading {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+.policyName .name {
+  display: grid;
+  grid-template-columns: 0.3fr 2fr;
+  align-items: center;
+}
+.policyName .name img {
+  border-radius: 50%;
+  width: 4.5vw;
+  padding: 0.5vw;
+  margin: auto;
+  box-shadow: 0 0 6px #00000085;
+}
+.policyName .name h2 {
+  font-size: 2.5vw;
+}
+.heading .yearReturn {
+  margin: auto;
+}
+.heading .policyFeed span {
+  margin: 0 1vw;
+  align-items: center;
+  background-color: white;
+  color: #6d6d75;
+  font-weight: 500;
+  border: 1px solid #a8a8a8;
+  box-shadow: none;
+}
+.heading .policyFeed #star {
+  border: none !important;
+}
+.heading .policyFeed #star i {
+  font-size: 0.9vw;
+  color: rgb(255, 186, 27);
+}
+.heading .percentReturn h2 {
+  font-weight: 700;
+  font-size: 2vw;
+}
+.heading .oneYearReturn h6 {
+  color: #6d6d75;
+  font-weight: 400;
+}
+.profileWrapper .sparkline {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.profileWrapper .sparklineData {
+  width: 100%;
+  margin: auto;
+}
+.profileWrapper .policyDetails p {
+  padding: 0.5vw 2vw;
+  line-height: 2vw;
+  font-size: 1.1vw;
+  color: #6d6d75;
+}
+.profileWrapper .policyDetails p::first-letter {
+  font-size: 2vw;
+}
+.profileWrapper .fundDetails, .profileWrapper .prosCons {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 3vw;
+}
+.profileWrapper .fundDetails .collection-item {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+.fundDetails .collection-item, .prosCons .collection-item {
+  font-weight: 500;
+  font-size: 1.1vw;
+}
+.fundDetails .collection li div:not(:first-child), .prosCons .collection li span {
+  font-weight: 500;
+  color: #6d6d75;
+  font-size: 1vw;
+}
+.aboutPolicy p {
+  /* padding: 0.5vw 2vw; */
+  line-height: 2vw;
+  font-size: 1.1vw;
+  color: #6d6d75;
+}
