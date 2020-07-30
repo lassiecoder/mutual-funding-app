@@ -3,13 +3,10 @@ const app = express()
 const mongoose = require('mongoose')
 const { json } = require('express')
 const PORT = 2020
-// const {MONGOURI} = require('./keys')
-// SK9fkiwutzvk3ybQv
-// 'mongodb+srv://mutualfunding:mutualfunding84510@cluster0.s8oj9.mongodb.net/testdb?retryWrites=true&w=majority'
+require('dotenv').config()
 
 
-// i've created "testdb" as database name including collection name "users"
-mongoose.connect('mongodb+srv://mutualfunding:mutualfunding84510@cluster0.s8oj9.mongodb.net/testdb?retryWrites=true&w=majority', {
+mongoose.connect(process.env.DATABASE_URL, {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
